@@ -41,7 +41,7 @@ include_once 'includes/header.php';
 
                 <h2>Olá, bem-vindo <?= $dados['name']; ?>! </h2>
 
-                <iframe class="mb-5" width="660" height="415" src="https://www.youtube.com/embed/iPbcg5XQ2cg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+                <!-- <iframe class="mb-5" width="660" height="415" src="https://www.youtube.com/embed/iPbcg5XQ2cg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     -->
 
                 <button class="btn btn-outline-primary"> ASSISTIR AULAS AGORA </button>
     

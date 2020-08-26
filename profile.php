@@ -46,11 +46,11 @@ include_once 'includes/header.php';
                 <img src="">
             </div>-->
 
-            <form action="php_action/profile_photo.php" method="POST" enctype="multipart/form-data">
+            <!-- <form action="php_action/profile_photo.php" method="POST" enctype="multipart/form-data">
                 Arquivo:<br>
                 <input type="file" name="photo_user"><br><br>
                 <button type="submit" name="btn_photo_user" class="btn btn-outline-success">Enviar Imagem</button>
-            </form>
+            </form> -->
 
             <br>
 
