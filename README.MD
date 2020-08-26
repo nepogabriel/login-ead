@@ -3,9 +3,12 @@
 </h1>
 
 
+
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/raa0Jg8DZ3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-[![teste video](http://youtu.be/raa0Jg8DZ3E/0.jpg)](http://youtu.be/watch?v=raa0Jg8DZ3E "#01 Software Web - Login EAD")
+<h1 align="center">
+    <img src="assets/img/readme-gif.gif">
+</h1>
 
 ---
 
